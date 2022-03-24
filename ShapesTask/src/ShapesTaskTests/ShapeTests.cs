@@ -30,6 +30,7 @@ public class ShapeTests
         Assert.AreEqual(triangleResult, unknownShapeResult2);
     }
 
+    [Test]
     public void Circle_RadiusLessThan0_ThrowsArgumentOutOfRangeException()
     {
         void CreateCircle() => new Circle(-1);
