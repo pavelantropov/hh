@@ -1,4 +1,4 @@
-﻿namespace Task.Entities.Abstractions;
+﻿namespace ShapesTask.Entities.Abstractions;
 
 public interface IShape
 {

@@ -1,4 +1,4 @@
-﻿namespace Task.Helpers;
+﻿namespace ShapesTask.Helpers;
 
 public class ValidationHelper
 {

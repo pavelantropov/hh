@@ -1,9 +1,9 @@
 using System;
 using NUnit.Framework;
-using Task.Entities;
-using Task.Entities.Abstractions;
+using ShapesTask.Entities;
+using ShapesTask.Entities.Abstractions;
 
-namespace TaskTests;
+namespace ShapesTaskTests;
 
 [TestFixture]
 public class ShapeTests

@@ -1,7 +1,7 @@
-﻿using Task.Entities.Abstractions;
-using Task.Helpers;
+﻿using ShapesTask.Entities.Abstractions;
+using ShapesTask.Helpers;
 
-namespace Task.Entities;
+namespace ShapesTask.Entities;
 
 public class Circle : ICircle
 {
